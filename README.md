@@ -1,4 +1,5 @@
-# Isograte
+# Isograte 
+[![Build Status](https://travis-ci.org/doshisid/isograte.svg?branch=master)](https://travis-ci.org/doshisid/isograte)
 
 Isolate functions that are only meant to run in production environment. Integrate them back while testing.
 
