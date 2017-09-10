@@ -1,0 +1,15 @@
+{
+  "name": "isograte",
+  "version": "0.1.0",
+  "description": "Isolate functions that are only meant to run in production environment. Integrate them back while testing.",
+  "main": "index.js",
+  "repository": "https://github.com/doshisid/isograte.git",
+  "author": "Siddharth Doshi <sidoshi510@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^21.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
